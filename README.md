@@ -175,7 +175,7 @@ A premium version or small subscription plan may be introduced later as the plat
 
 Need help or run into an issue? Reach out directly via Telegram:
 
-👉 **[@alialtannak](https://t.me/DexsAlertBot_Support)**
+👉 **[@DexsAlertBot_Support](https://t.me/DexsAlertBot_Support)**
 
 ---
 
