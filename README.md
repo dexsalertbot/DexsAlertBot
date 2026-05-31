@@ -2,7 +2,8 @@
 
 <img src="logo.png" alt="DexsAlertBot Logo" width="200" />
 
-# DexsAlertBot 🚀 https://dexsalertbot.com/
+# DexsAlertBot 🚀 
+# https://dexsalertbot.com
 
 ### Catch meme coins before the trend.
 
